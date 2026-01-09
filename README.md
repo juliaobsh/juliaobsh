@@ -26,6 +26,7 @@
 ### Let’s Connect
 - LinkedIn: https://linkedin.com/in/yulia-obshansky  
 - Portfolio: https://julia-portfolio-nine.vercel.app/
+- Email: yuliaobs@gmail.com
 
 <!--
 **juliaobsh/juliaobsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
