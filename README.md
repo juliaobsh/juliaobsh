@@ -8,12 +8,7 @@
 ---
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-**Languages:** Java, Python, TypeScript, JavaScript, C#  
-**Frontend:** React, React Native  
-**Backend:** Node.js, Express  
-**Databases:** PostgreSQL, SQLite  
-**Tools:** Git, GitHub, Firebase  
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,c,cs,react,nodejs,express,postgres,sqlite,git,github,linux)](https://skillicons.dev) 
 
 ---
 
