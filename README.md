@@ -8,6 +8,8 @@
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,c,cs,react,tailwind,nodejs,postgres,git,github,linux,vscode,vercel)](https://skillicons.dev) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaobsh)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Featured Projects
 - **YarnTrack** – Cross-platform mobile app for tracking projects, reminders, and analytics (React Native, Firebase)
 - **Leaf Drift** – Modular 3D game systems project focused on real-time performance and OOP design (Unity, C#)
