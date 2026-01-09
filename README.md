@@ -8,6 +8,7 @@
 ---
 
 ### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 **Languages:** Java, Python, TypeScript, JavaScript, C#  
 **Frontend:** React, React Native  
 **Backend:** Node.js, Express  
