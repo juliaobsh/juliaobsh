@@ -9,11 +9,7 @@
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,c,cs,react,html,css,tailwind,nodejs,postgres,git,github,linux,vscode)](https://skillicons.dev) 
-**Languages:** Java, Python, TypeScript, JavaScript, C, C#  
-**Frontend:** React, HTML, CSS, Tailwind  
-**Backend:** Node.js  
-**Databases:** SQL (PostgreSQL)  
-**Tools & Platforms:** Git, GitHub, Linux, VS Code, Vercel  
+
 ---
 
 ### Featured Projects
