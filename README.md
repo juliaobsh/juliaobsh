@@ -5,19 +5,13 @@
 🔐 Interested in scalable systems, APIs, and security-aware design  
 📍 Toronto, ON | Open to **Summer 2026 SWE Internships / Co-ops**
 
----
-
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,c,cs,react,tailwind,nodejs,postgres,git,github,linux,vscode,vercel)](https://skillicons.dev) 
-
----
 
 ### Featured Projects
 - **YarnTrack** – Cross-platform mobile app for tracking projects, reminders, and analytics (React Native, Firebase)
 - **Leaf Drift** – Modular 3D game systems project focused on real-time performance and OOP design (Unity, C#)
 - **Graph Relationship Mapping API** – Production-style REST API implementing graph traversal and shortest-path algorithms
-
----
 
 ### Let’s Connect
 - LinkedIn: https://linkedin.com/in/yulia-obshansky  
