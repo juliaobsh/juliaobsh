@@ -1,7 +1,7 @@
 ## Hi, I’m Julia 👋
 
 🎓 3rd–4th year Computer Science student at York University (Honours)  
-💻 Aspiring Business/Data Analyst with experience in Python, SQL, PowerBI, and tracking KPIs and project metrics  
+💻 Aspiring Data Analyst with experience in Python, SQL, PowerBI, and tracking KPIs and project metrics  
 🔐 Interested in data cleaning, data validation, and building and maintaining dashboards  
 📍 Toronto, ON | Open to **Summer 2027 Data Analysis Internships / Co-ops**
 
