@@ -8,7 +8,7 @@
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,java,ts,js,c,cs,react,tailwind,nodejs,git,github,linux,vscode,vercel)](https://skillicons.dev) 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=juliaobsh)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=juliaobsh)](https://github.com/stats-organization/github-stats-extended)
 
 ### Featured Projects
 - **YarnTrack** – Cross-platform mobile app for tracking projects, reminders, and analytics (React Native, Firebase)
