@@ -1,35 +1,62 @@
-## Hi, I’m Julia 👋
+<h1 align="center">Hi, I'm Yulia 👋</h1>
+<p align="center"><strong>Business Data Analyst · Computer Science Co-op Student</strong></p>
+<p align="center">
+  <a href="https://julia-portfolio-nine.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/yulia-obshansky/">LinkedIn</a> ·
+  <a href="mailto:yuliaobs@gmail.com">Email</a>
+</p>
 
-🎓 3rd–4th year Computer Science student at York University (Honours)  
-💻 Aspiring Data Analyst with experience in Python, SQL, PowerBI, and tracking KPIs and project metrics  
-🔐 Interested in data cleaning, data validation, and building and maintaining dashboards  
-📍 Toronto, ON | Open to **Summer 2027 Data Analysis Internships / Co-ops**
+## About me
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,java,ts,js,c,cs,react,tailwind,nodejs,git,github,linux,vscode,vercel)](https://skillicons.dev) 
+I work at the intersection of **enterprise reporting, data validation, automation, and software development**. I enjoy learning how an existing system behaves, tracing discrepancies to their source, and making careful changes that people can trust.
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=juliaobsh)](https://github.com/stats-organization/github-stats-extended)
+In my current co-op role, I have:
 
-### Featured Projects
-- **YarnTrack** – Cross-platform mobile app for tracking projects, reminders, and analytics (React Native, Firebase)
-- **Leaf Drift** – Modular 3D game systems project focused on real-time performance and OOP design (Unity, C#)
-- **Graph Relationship Mapping API** – Production-style REST API implementing graph traversal and shortest-path algorithms
+- Delivered **six Jira-driven Power BI enhancements** across **8–9 operational reports** in an approximately 29-report enterprise suite
+- Created and modified **report-level DAX measures**, filters, tables, and visuals
+- Tested report outputs against production data and worked through **QA feedback** before release
+- Built **Excel VBA automation** supporting the weekly triage of **14,000–16,000 cybersecurity vulnerability records**
+- Worked with Microsoft Fabric, Genesys Cloud, SAP, ServiceNow/CMDB, and enterprise reporting workflows
 
-### Let’s Connect
-- LinkedIn: https://linkedin.com/in/yulia-obshansky 
-- Email: yuliaobs@gmail.com
+I am currently open to **Business Intelligence, Data Analyst, Business Data Analyst, and Technical Business Analyst** opportunities.
 
-<!--
-**juliaobsh/juliaobsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools and technologies
 
-Here are some ideas to get you started:
+**Data and BI**  
+Power BI · DAX · Excel · SQL · Microsoft Fabric · Data Validation · Source-to-Report Reconciliation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming and automation**  
+Python · Excel VBA · Java · C# · JavaScript · HTML/CSS
+
+**Enterprise delivery**  
+Jira · QA/UAT Support · Agile · Genesys Cloud · SAP · ServiceNow/CMDB · Dynatrace
+
+## Selected work
+
+### Enterprise Power BI reporting
+Implemented and validated ticket-driven enhancements across operational queue reports, daily summaries, IVR reporting, and agent/team scorecards. My work included distinct-count logic, forecast variance measures, percentage calculations, filtering behaviour, and QA support.
+
+### Cybersecurity vulnerability triage automation
+Built a repeatable Excel VBA workflow to import, enrich, and structure 14,000–16,000 weekly vulnerability records using CMDB ownership data.
+
+### Graph-based relationship mapping API
+Designed a REST API for managing graph nodes and relationships, including dynamic updates, property-based queries, shortest-path search, and traversal algorithms.
+
+### YarnTrack
+Built a cross-platform mobile application for tracking projects, reminders, and analytics with persistent storage and reusable interface components.
+
+## How I work
+
+- **Understand before changing:** I learn how an existing report or system behaves before modifying it.
+- **Validate before presenting:** A polished result is not useful if the numbers cannot be explained.
+- **Communicate the finding:** I report what I changed, how I tested it, and what still needs a decision.
+
+## Currently developing
+
+- Advanced DAX and data modelling
+- SQL and analytical querying
+- Backend and data-focused software systems
+
+<p align="center">
+  <a href="https://julia-portfolio-nine.vercel.app/"><strong>View my portfolio →</strong></a>
+</p>
