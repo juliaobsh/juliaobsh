@@ -25,17 +25,10 @@ Jira · QA/UAT Support · Agile · Genesys Cloud · SAP · ServiceNow/CMDB · Dy
 
 ## Selected work
 
-### Enterprise Power BI reporting
-Implemented and validated ticket-driven enhancements across operational queue reports, daily summaries, IVR reporting, and agent/team scorecards. My work included distinct-count logic, forecast variance measures, percentage calculations, filtering behaviour, and QA support.
-
-### Cybersecurity vulnerability triage automation
-Built a repeatable Excel VBA workflow to import, enrich, and structure 14,000–16,000 weekly vulnerability records using CMDB ownership data.
-
-### Graph-based relationship mapping API
-Designed a REST API for managing graph nodes and relationships, including dynamic updates, property-based queries, shortest-path search, and traversal algorithms.
-
-### YarnTrack
-Built a cross-platform mobile application for tracking projects, reminders, and analytics with persistent storage and reusable interface components.
+- **Enterprise Power BI reporting** - Implemented and validated ticket-driven enhancements across operational queue reports, daily summaries, IVR reporting, and agent/team scorecards. My work included distinct-count logic, forecast variance measures, percentage calculations, filtering behaviour, and QA support.
+- **Cybersecurity vulnerability triage automation** - Built a repeatable Excel VBA workflow to import, enrich, and structure 14,000–16,000 weekly vulnerability records using CMDB ownership data.
+- **Graph-based relationship mapping API** - Designed a REST API for managing graph nodes and relationships, including dynamic updates, property-based queries, shortest-path search, and traversal algorithms.
+- **YarnTrack** - Built a cross-platform mobile application for tracking projects, reminders, and analytics with persistent storage and reusable interface components.
 
 ## How I work
 
