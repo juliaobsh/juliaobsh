@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yulia 👋</h1>
+<h1 align="center">Hi, I'm Julia 👋</h1>
 <p align="center"><strong>Business Data Analyst · Computer Science Co-op Student</strong></p>
 <p align="center">
   <a href="https://julia-portfolio-nine.vercel.app/">Portfolio</a> ·
