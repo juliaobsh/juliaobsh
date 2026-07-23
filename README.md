@@ -10,15 +10,7 @@
 
 I work at the intersection of **enterprise reporting, data validation, automation, and software development**. I enjoy learning how an existing system behaves, tracing discrepancies to their source, and making careful changes that people can trust.
 
-In my current co-op role, I have:
-
-- Delivered **six Jira-driven Power BI enhancements** across **8–9 operational reports** in an approximately 29-report enterprise suite
-- Created and modified **report-level DAX measures**, filters, tables, and visuals
-- Tested report outputs against production data and worked through **QA feedback** before release
-- Built **Excel VBA automation** supporting the weekly triage of **14,000–16,000 cybersecurity vulnerability records**
-- Worked with Microsoft Fabric, Genesys Cloud, SAP, ServiceNow/CMDB, and enterprise reporting workflows
-
-I am currently open to **Business Intelligence, Data Analyst, Business Data Analyst, and Technical Business Analyst** opportunities.
+I am currently open to Summer 2027 **Business Intelligence, Data Analyst, Business Data Analyst, and Technical Business Analyst** opportunities.
 
 ## Tools and technologies
 
